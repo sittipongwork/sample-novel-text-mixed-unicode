@@ -15,7 +15,7 @@ export const sampleCode = {
   "ก": "&#x0E01;",
   "ข": "&#x0E02;",
   // ...
-  "น": "&#xE024;", //custom and not found in Saraban font range
+  // "น": "&#xE024;", //custom and not found in Saraban font range
   // ...
 }
 
